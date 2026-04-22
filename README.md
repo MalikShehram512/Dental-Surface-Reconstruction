@@ -4,6 +4,18 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+---
+
+### 🚀 Live Demo
+**Click the button below to try the application live on Hugging Face Spaces:**
+
+[![Run on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Open%20in%20Spaces-Blue?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/MalikShehram/Reconstruction-of-Tooth)
+
+*(Replace the link above with your actual Hugging Face Space URL)*
+
+---
+
+
 ## 📖 Overview
 The **Dental Surface Reconstruction App v4.0** is an advanced image processing tool designed to reconstruct missing tooth surfaces in dental models. Based on insights from previous versions, this tool moves away from unreliable auto-detection and utilizes a **user-guided masking system** to ensure high-precision results regardless of camera angles or image cropping.
 
