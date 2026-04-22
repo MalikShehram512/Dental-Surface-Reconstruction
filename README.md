@@ -11,7 +11,6 @@
 
 [![Run on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Open%20in%20Spaces-Blue?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/MalikShehram/Reconstruction-of-Tooth)
 
-*(Replace the link above with your actual Hugging Face Space URL)*
 
 ---
 
